@@ -8,7 +8,7 @@ export default function Lander() {
           🌐 Our Community Website is Coming Soon!
         </CardTitle>
       </CardHeader>
-      <CardContent className="text-justify px-10">
+      <CardContent className="px-10">
         We're thrilled to announce that a dedicated website for our mechanical
         keyboard community is in the works! This site will be a one-stop
         destination for all enthusiasts, featuring:
