@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd9e9c85.css",
-    "main.js": "/static/js/main.c4e2ed49.js",
+    "main.css": "/static/css/main.7d75b47d.css",
+    "main.js": "/static/js/main.ac6b544a.js",
+    "static/media/stacks-logo-black.png": "/static/media/stacks-logo-black.2aec6d87a766fc05f97f.png",
+    "static/media/neomacro-white-bg.png": "/static/media/neomacro-white-bg.fd06651ee0f9c7c7699e.png",
+    "static/media/ctrl-shift-store-logo.png": "/static/media/ctrl-shift-store-logo.c925114e3639317e4c77.png",
+    "static/media/keebsmods-color-bg.png": "/static/media/keebsmods-color-bg.abf0bde4f5aa20c07361.png",
+    "static/media/curiosity-caps-white-bg.png": "/static/media/curiosity-caps-white-bg.720638d4f2cb2d5db24a.png",
     "index.html": "/index.html",
-    "main.cd9e9c85.css.map": "/static/css/main.cd9e9c85.css.map",
-    "main.c4e2ed49.js.map": "/static/js/main.c4e2ed49.js.map"
+    "main.7d75b47d.css.map": "/static/css/main.7d75b47d.css.map",
+    "main.ac6b544a.js.map": "/static/js/main.ac6b544a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd9e9c85.css",
-    "static/js/main.c4e2ed49.js"
+    "static/css/main.7d75b47d.css",
+    "static/js/main.ac6b544a.js"
   ]
 }
